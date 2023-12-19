@@ -1,0 +1,1 @@
+AppConfigのready()メソッドの動作サンプルアプリ
